@@ -16,13 +16,13 @@
   d. 기간별로 지출금액수 확인 가능
 
 * Main Fame
-  1.MainActivity(로그인 화면)
-  2.Groupcontents(속한 그룹 보여주는 화면)
-  3.MakeGroup(그룹 만들 때 필요한 화면)
-  4.ContentInfoActivity(목록 화면)
-  5.ReceiptList(영수증 찍은거 내역 보여주는 화면)
-  6.SpendingList(지출내역 보기 화면)
-  7.CardNumber(카드정보 입력하는 화면)
-  8.ReceiptPic(영수증 상세 사진 화면)
-  9.ReceiptInfo(영수증 정보 화면)
+-  1.MainActivity(로그인 화면)
+-  2.Groupcontents(속한 그룹 보여주는 화면)
+-  3.MakeGroup(그룹 만들 때 필요한 화면)
+-  4.ContentInfoActivity(목록 화면)
+-  5.ReceiptList(영수증 찍은거 내역 보여주는 화면)
+-  6.SpendingList(지출내역 보기 화면)
+-  7.CardNumber(카드정보 입력하는 화면)
+-  8.ReceiptPic(영수증 상세 사진 화면)
+-  9.ReceiptInfo(영수증 정보 화면)
 
