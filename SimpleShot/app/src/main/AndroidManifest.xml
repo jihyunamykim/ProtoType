@@ -16,7 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ContentsInfoActivity"></activity>
+        <activity android:name=".ContentsInfoActivity" />
+        <activity android:name=".GroupContentsActivity" />
+        <activity android:name=".MakeGroupActivity" />
+        <activity android:name=".ReceiptListActivity" />
+        <activity android:name=".SpendingListActivity" />
+        <activity android:name=".CardNumberActivity" />
+        <activity android:name=".ReceiptPicActivity" />
+        <activity android:name=".ReceipInfoActivity"></activity>
     </application>
 
 </manifest>
