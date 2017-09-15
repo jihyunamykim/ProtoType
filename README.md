@@ -1,35 +1,35 @@
 # ProtoType
-* 2017년 하반기 shinhanbank 안드로이드 교육 프로젝트*
+* 2017년 하반기 shinhanbank 안드로이드 교육 프로젝트
 
-App Name : Simple shot
+* App Name : Simple shot
 
-App Def  : 
+* App Def  : 
 
 
-Main Function
+* Main Function
 
-a.
-b.
-c.
-d.
+  a.
+  b.
+  c.
+  d.
 
-Main Fame
+* Main Fame
 
-1.MainActivity
+  1.MainActivity
 
-2.Groupcontents
+  2.Groupcontents
 
-3.MakeGroup
+  3.MakeGroup
 
-4.ContentInfoActivity
+  4.ContentInfoActivity
 
-5.ReceiptList
+  5.ReceiptList
 
-6.SpendingList
+  6.SpendingList
 
-7.CardNumber
+  7.CardNumber
 
-8.ReceiptPic
+  8.ReceiptPic
 
-9.ReceiptInfo
+  9.ReceiptInfo
 
