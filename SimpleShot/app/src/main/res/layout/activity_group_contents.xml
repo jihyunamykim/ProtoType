@@ -26,7 +26,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical" >
             <Button
-                android:id="@+id/button"
+                android:id="@+id/group1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/textView2"
@@ -35,14 +35,12 @@
                 android:text="Button1" />
         </LinearLayout>
 
-
-
     </ScrollView>
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/plus_group"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="30dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:background="@drawable/groupplus"
